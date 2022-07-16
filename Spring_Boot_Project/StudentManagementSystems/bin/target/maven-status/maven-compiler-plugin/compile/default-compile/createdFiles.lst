@@ -1,0 +1,7 @@
+com\springProject\StudentManagementSystems\model\StudentRecord.class
+com\springProject\StudentManagementSystems\repository\StudentManagementRepo$1.class
+com\springProject\StudentManagementSystems\repository\StudentManagementRepo.class
+com\springProject\StudentManagementSystems\repository\StudentManagementRepo$2.class
+com\springProject\StudentManagementSystems\StudentManagementSystemsApplication.class
+com\springProject\StudentManagementSystems\controller\StudentManagementController.class
+com\springProject\StudentManagementSystems\service\StudentManagementService.class
